@@ -42,7 +42,7 @@ if (x.strftime("%x"))==(g.strftime("%x")):
    print('')
    if(x.strftime("%X"))>(g.strftime("%X")):
     print('\n\n')
-    print("     "+' انتهت الصلاحيه عليك بمراسله المطورللحصول على احدث نسخه @FG_on )
+    print("     "+' انتهت الصلاحيه عليك بمراسله المطورللحصول على احدث نسخه FG_on )
     print('\n\n')
     print(x)
     
